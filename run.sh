@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # disable ssl security check 
-echo insecure >> ~/.curlrc
+# echo insecure >> ~/.curlrc
 
 gaianet_base_dir="$HOME/gaianet/"
 
